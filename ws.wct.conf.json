@@ -1,0 +1,4 @@
+{
+    "verbose": true,
+    "suites": [ "packages/component-b/test/component-b_test.html" ]
+}
